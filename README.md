@@ -125,7 +125,7 @@ When uploading, set the following in Arduino IDE under **Tools**:
 ### Getting the Code
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ESP32-Voice-Activated-Target-Thrower-System.git
+git clone https://github.com/Jcon2635/ESP32-Voice-Activated-Target-Thrower-System.git
 cd ESP32-Voice-Activated-Target-Thrower-System
 ```
 
@@ -248,4 +248,4 @@ In short: you're free to use, modify, and distribute this project, but any deriv
 
 ## About
 
-Built by [Broken Target Machine & Gunsmithing](https://github.com/YOUR_USERNAME) as a practical tool for the shooting range. Born out of the desire to shoot whenever I wanted and not need a second person.
+Built by [Broken Target Machine & Gunsmithing](https://github.com/Jcon2635) as a practical tool for the shooting range. Born out of the desire to shoot whenever I wanted and not need a second person.
