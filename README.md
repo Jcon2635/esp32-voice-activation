@@ -248,4 +248,4 @@ In short: you're free to use, modify, and distribute this project, but any deriv
 
 ## About
 
-Built by [Broken Target Machine & Gunsmithing](https://github.com/Jcon2635) as a practical tool for the shooting range. Born out of the desire to shoot whenever I wanted and not need a second person.
+Built by [Jcon2635](https://github.com/Jcon2635) as a practical tool for the shooting range. Born out of the desire to shoot whenever I wanted and not need a second person.
